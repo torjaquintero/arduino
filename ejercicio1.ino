@@ -19,10 +19,10 @@ void setup() {
 
 void loop() {
   // Enciende el LED por 1 segundo
-  digitalWrite(12, HIGH);        //Establece un nivel de tension alto en el pin 13
+  digitalWrite(13, HIGH);        //Establece un nivel de tension alto en el pin 13
   delay(1000);                   //Retrasa la ejecucion del programa por 1000 milisegundos (1 seg)
 
   // Apaga el LED por 2 segundos
-  digitalWrite(12, LOW);        //Establece un nivel de tension bajo en el pin 13
+  digitalWrite(13, LOW);        //Establece un nivel de tension bajo en el pin 13
   delay(2000);                  //Retrasa la ejecucion del programa por dos segundos
 }
