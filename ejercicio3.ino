@@ -1,7 +1,7 @@
 /* 
  *  Bienvenidos a Sys On Chip
  * ==============================
- * Ejercicio No.2
+ * Ejercicio No.3
  * En este programa vamos a simular el funcionamiento de un semáforo.
  * Vamos a conectar tres LEDs a pines digitales del Arduino UNO. El programa consiste en crear 
  * una secuencia de luces donde, en primer lugar, ilumina el LED rojo, luego el LED verde y
